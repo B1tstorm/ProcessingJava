@@ -1,4 +1,3 @@
-Objektorientiertes Programmieren
 Processing mit Java
 ==
 
